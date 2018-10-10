@@ -2,9 +2,9 @@
  ### Location
  Surat, India.
  ### Academics
- SVNIT
+ SVNIT, Surat, India
  ### Interests
- - Cricket and Coffee, love to do web development and competitive programming.
+ - Cricket ,Coffee, love to do web development and competitive programming.
  ### Development
  - Front end web development
  ### Projects
